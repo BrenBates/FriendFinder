@@ -12,6 +12,15 @@ This application is a Friend Finder.  There is a survey of 10 questions.  When a
 3. '/api/friends' - API list of all of the friends available to be matched with and their scores.
 
 
-# Technologies Used: HTML, CSS, Javascript, Node.js, Express.js, Bootstrap, Modals, Server with routing, API creation
+# Technologies Used: 
+* HTML
+* CSS
+* Javascript
+* Node.js 
+* Express.js
+* Bootstrap
+* Modals
+* Server with routing
+* API creation
 
 # Brennen's Role in Development: All
