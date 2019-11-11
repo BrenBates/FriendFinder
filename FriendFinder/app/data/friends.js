@@ -1,24 +1,24 @@
 let friends = 
 [{
-    "name":"Ahmed",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name":"Bulbasaur",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
     "scores":[
-        5,
-        1,
-        4,
-        4,
-        5,
-        1,
-        2,
-        5,
-        4,
-        1
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
       ]
   },
 
   {
-    "name":"Betsy",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name":"Charizard",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
     "scores":[
         1,
         1,
@@ -30,6 +30,22 @@ let friends =
         1,
         1,
         1
+      ]
+  },
+  {
+    "name":"Squirtle",
+    "photo":"https://www.tattoofun.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/q/squirtle_sm.jpg",
+    "scores":[
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
       ]
   }
 ]
